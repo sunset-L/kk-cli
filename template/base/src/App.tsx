@@ -1,6 +1,5 @@
 import { useEffect, useState } from 'react'
 import reactLogo from './assets/react.svg'
-import Test from '@/components/Test'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -29,7 +28,6 @@ function App() {
         </p>
       </div>
       <p>Click on the Vite and React logos to learn more</p>
-      <Test />
     </div>
   )
 }

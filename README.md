@@ -19,5 +19,5 @@
 ## 模板进度
 - [x] svg-component
 - [x] eslint+prettier
-- [ ] pre-commit校验
+- [x] pre-commit校验
 - [x] router+antd

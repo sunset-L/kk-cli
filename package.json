@@ -1,5 +1,5 @@
 {
-  "name": "kkcli",
+  "name": "@sunset-kk/cli",
   "version": "1.0.0",
   "description": "vite+react脚手架",
   "main": "index.js",
@@ -17,5 +17,9 @@
     "inquirer": "^8.0.0",
     "lodash": "^4.17.21",
     "ora": "^4.0.0"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   }
 }

@@ -1,12 +1,12 @@
 {
   "name": "@sunset-kk/kkcli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "vite+react脚手架",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["react", "cli", "vite"],
   "author": "sunset-kk",
   "license": "ISC",
   "bin": "bin/main.cjs",
@@ -21,5 +21,9 @@
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sunset-L/kk-cli"
   }
 }

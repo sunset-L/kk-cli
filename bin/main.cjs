@@ -2,7 +2,7 @@
 const program = require("commander");
 
 program
-  .name('kk-cli')
+  .name(require('../package').name)
   .version(require('../package').version)
   .usage('<command> [options]')
 

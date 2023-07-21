@@ -1,5 +1,5 @@
 {
-  "name": "@sunset-kk/cli",
+  "name": "@sunset-kk/kkcli",
   "version": "1.0.0",
   "description": "vite+react脚手架",
   "main": "index.js",

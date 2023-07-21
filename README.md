@@ -14,10 +14,8 @@
 | 参数         | 说明           | 是否必选 |
 |------------|--------------|------|
 | -f/--force | 如果目标目录已存在则覆盖 | 否    |
-其余待补充
 
-## 模板进度
-- [x] svg-component
-- [x] eslint+prettier
-- [x] pre-commit校验
-- [x] router+antd
+## 可选配置
+- eslint+prettier
+- pre-commit校验
+- router+antd
